@@ -1,0 +1,1 @@
+var json_SPEC_MCC_01_1 = {"type":"FeatureCollection","name":"SPEC_MCC_01_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[33.953962650248279,1.028001958201088]}}]}
